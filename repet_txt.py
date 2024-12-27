@@ -2,6 +2,7 @@
 info = input("Digite uma string: ") 
 repet = int(input("Digite um numero inteiro: "))
 print((info + ' ') * repet)
+# comitar
 # O que acontece se o usuario digitar um numero decimal? E se digitar um texto?
 # O que acontece se o usuario digitar um numero negativo?
 # O que acontece se o usuario digitar um texto que não pode ser convertido para inteiro?
